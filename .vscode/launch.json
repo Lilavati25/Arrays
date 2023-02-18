@@ -1,0 +1,455 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch CountPaths",
+            "request": "launch",
+            "mainClass": "CountPaths",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountSubset",
+            "request": "launch",
+            "mainClass": "CountSubset",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch NonZeroFactRec",
+            "request": "launch",
+            "mainClass": "NonZeroFactRec",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch PermutationRec",
+            "request": "launch",
+            "mainClass": "PermutationRec",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch FactRec",
+            "request": "launch",
+            "mainClass": "FactRec",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountLengthWord",
+            "request": "launch",
+            "mainClass": "CountLengthWord",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch LcmRec",
+            "request": "launch",
+            "mainClass": "LcmRec",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch HcfRec",
+            "request": "launch",
+            "mainClass": "HcfRec",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch RevNumRec",
+            "request": "launch",
+            "mainClass": "RevNumRec",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch SmallEleRecur",
+            "request": "launch",
+            "mainClass": "SmallEleRecur",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch LargeEleRecur",
+            "request": "launch",
+            "mainClass": "LargeEleRecur",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch FiboRecur",
+            "request": "launch",
+            "mainClass": "FiboRecur",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeRecur",
+            "request": "launch",
+            "mainClass": "PrimeRecur",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch FactorialRec",
+            "request": "launch",
+            "mainClass": "FactorialRec",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintSumRec",
+            "request": "launch",
+            "mainClass": "PrintSumRec",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintOneToFive",
+            "request": "launch",
+            "mainClass": "PrintOneToFive",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch PowerRecur",
+            "request": "launch",
+            "mainClass": "PowerRecur",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch PowerRecurssionOne",
+            "request": "launch",
+            "mainClass": "PowerRecurssionOne",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch PowerRecurssion",
+            "request": "launch",
+            "mainClass": "PowerRecurssion",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintFiveToOne",
+            "request": "launch",
+            "mainClass": "PrintFiveToOne",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch DivisorsCount",
+            "request": "launch",
+            "mainClass": "DivisorsCount",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountDay",
+            "request": "launch",
+            "mainClass": "CountDay",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch OccurenceDigit",
+            "request": "launch",
+            "mainClass": "OccurenceDigit",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountDigit",
+            "request": "launch",
+            "mainClass": "CountDigit",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeRengeHundred",
+            "request": "launch",
+            "mainClass": "PrimeRengeHundred",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfPrime",
+            "request": "launch",
+            "mainClass": "SumOfPrime",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Replace0With1",
+            "request": "launch",
+            "mainClass": "Replace0With1",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddTwoFractions",
+            "request": "launch",
+            "mainClass": "AddTwoFractions",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Handshake",
+            "request": "launch",
+            "mainClass": "Handshake",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch AreaOfCircle",
+            "request": "launch",
+            "mainClass": "AreaOfCircle",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch PermutationEx",
+            "request": "launch",
+            "mainClass": "PermutationEx",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Quadrant",
+            "request": "launch",
+            "mainClass": "Quadrant",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch OctalToBinary",
+            "request": "launch",
+            "mainClass": "OctalToBinary",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryToOctal",
+            "request": "launch",
+            "mainClass": "BinaryToOctal",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch DeciToHexa",
+            "request": "launch",
+            "mainClass": "DeciToHexa",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch DecToOctal",
+            "request": "launch",
+            "mainClass": "DecToOctal",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch DecToBinary",
+            "request": "launch",
+            "mainClass": "DecToBinary",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch HexaToDecimal",
+            "request": "launch",
+            "mainClass": "HexaToDecimal",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch OctalToDecimal",
+            "request": "launch",
+            "mainClass": "OctalToDecimal",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryToDecimal",
+            "request": "launch",
+            "mainClass": "BinaryToDecimal",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Gcd",
+            "request": "launch",
+            "mainClass": "Gcd",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lcm",
+            "request": "launch",
+            "mainClass": "Lcm",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hcf",
+            "request": "launch",
+            "mainClass": "Hcf",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch PerfectSquare",
+            "request": "launch",
+            "mainClass": "PerfectSquare",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch PerfectNum",
+            "request": "launch",
+            "mainClass": "PerfectNum",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch StrongNum",
+            "request": "launch",
+            "mainClass": "StrongNum",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeFactor",
+            "request": "launch",
+            "mainClass": "PrimeFactor",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factors",
+            "request": "launch",
+            "mainClass": "Factors",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Even",
+            "request": "launch",
+            "mainClass": "Even",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch GreatTwo",
+            "request": "launch",
+            "mainClass": "GreatTwo",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Leap",
+            "request": "launch",
+            "mainClass": "Leap",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch PositiveNegative",
+            "request": "launch",
+            "mainClass": "PositiveNegative",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch PowerNumber",
+            "request": "launch",
+            "mainClass": "PowerNumber",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeRenge",
+            "request": "launch",
+            "mainClass": "PrimeRenge",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Revdigit",
+            "request": "launch",
+            "mainClass": "Revdigit",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfRange",
+            "request": "launch",
+            "mainClass": "SumOfRange",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sumdigit",
+            "request": "launch",
+            "mainClass": "Sumdigit",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch armstrong",
+            "request": "launch",
+            "mainClass": "armstrong",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibo",
+            "request": "launch",
+            "mainClass": "fibo",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch pallindrome",
+            "request": "launch",
+            "mainClass": "pallindrome",
+            "projectName": "codes_ca1f87cd"
+        }
+    ]
+}
