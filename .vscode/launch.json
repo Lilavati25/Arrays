@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DescendingOrder",
+            "request": "launch",
+            "mainClass": "DescendingOrder",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rec1",
+            "request": "launch",
+            "mainClass": "Rec1",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch subsequence",
+            "request": "launch",
+            "mainClass": "subsequence",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch DuplicateX",
+            "request": "launch",
+            "mainClass": "DuplicateX",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortArray",
+            "request": "launch",
+            "mainClass": "SortArray",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch CharOccurence",
+            "request": "launch",
+            "mainClass": "CharOccurence",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringReverseRec",
+            "request": "launch",
+            "mainClass": "StringReverseRec",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckOutput",
+            "request": "launch",
+            "mainClass": "CheckOutput",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch PairFriend",
+            "request": "launch",
+            "mainClass": "PairFriend",
+            "projectName": "codes_ca1f87cd"
+        },
+        {
+            "type": "java",
             "name": "Launch CountPaths",
             "request": "launch",
             "mainClass": "CountPaths",
